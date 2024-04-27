@@ -1,7 +1,3 @@
---select location, date, total_cases, new_cases,total_deaths,population
---from CovidDeaths
---order by 1,2
-
 --looking at total cases vs total deaths
 --shows the likelyhood of dying if you contract covid in your country
 
