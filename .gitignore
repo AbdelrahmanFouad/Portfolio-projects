@@ -1,0 +1,12 @@
+﻿# Jupyter / IPython
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Data files
+*.csv
+data/
+
+# OS
+.DS_Store
+Thumbs.db
